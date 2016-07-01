@@ -10,6 +10,7 @@
     tools:context="id.netzme.aryandi.getcontactname.MainActivity">
 
     <TextView
+        android:id="@+id/textNama"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!" />
